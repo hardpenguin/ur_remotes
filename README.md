@@ -14,4 +14,4 @@ Currently it contains:
 
 ## Screenshots
 
-![Screenshot of PulseAudio Volume](https://raw.githubusercontent.com/hardpenguin/ur_remotes/master/screen_pulseaudio.png)
+![Screenshot of PulseAudio Volume](https://github.com/hardpenguin/ur_remotes/raw/master/screen_pulseaudio.png)
