@@ -1,0 +1,4 @@
+meta.name: PulseAudio volume
+meta.author: hardpenguin
+meta.description: PulseAudio general system volume
+meta.tags.category: media
